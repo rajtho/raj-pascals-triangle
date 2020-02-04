@@ -4,6 +4,8 @@ How to Run:
 raj@macmini:/opt/code/raj-pascals-triangle/bin$ java -jar raj-pascals-triangle-1.0.jar triangle.txt
 
  Max sum of verticalTrace is 7272
+ 
+ TimeComplexity is O(n) and spaceComplexity is O(n).
 
 
 MaxSum uses Dynamic Programming to accomplish the maximum sum of tracing from top to bottom of the pascals tree.
