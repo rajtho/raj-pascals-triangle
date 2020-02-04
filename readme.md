@@ -2,6 +2,7 @@
 How to Run:
 
 raj@macmini:/opt/code/raj-pascals-triangle/bin$ java -jar raj-pascals-triangle-1.0.jar triangle.txt
+
  Max sum of verticalTrace is 7272
 
 
